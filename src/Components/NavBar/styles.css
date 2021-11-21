@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+/*HEADER*/
+.header {
+    position: sticky;
+    top: 0;
+    z-index: 30;
+    border-bottom: 2px solid #fff;
+    background-color: #000;
+}

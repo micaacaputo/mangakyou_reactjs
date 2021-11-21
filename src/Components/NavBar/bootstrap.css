@@ -1,0 +1,20 @@
+.navbar{
+    padding-top: 0.7rem;
+    padding-bottom: 0.7rem;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+    margin-right: 5rem;
+    font-size: 1.3rem;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.navbar-dark:hover .navbar-nav:hover .nav-link:hover{
+    color: #fa3434;
+    transition: .3s;
+}
+.navbar-brand{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 2.2rem !important;
+    color: red !important;
+    margin-left: 4rem;
+}
